@@ -26,7 +26,7 @@ def create_fake_files(directory, num_files):
 # Specify the directory where you want to create fake files
 directory_to_create = 'S:\Temp'
 # Specify the number of fake files to create
-num_fake_files = 20
+num_fake_files = 100
 
 create_fake_files(directory_to_create, num_fake_files)
 
