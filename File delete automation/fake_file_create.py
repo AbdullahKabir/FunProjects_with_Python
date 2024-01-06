@@ -29,3 +29,20 @@ directory_to_create = 'S:\Temp'
 num_fake_files = 20
 
 create_fake_files(directory_to_create, num_fake_files)
+
+
+# Copyright (c) 2024 Abdullah Md Humayun Kabir
+# All rights reserved.
+
+# This file is part of the MyProject "Funprojects with python".
+# It is subject to the license terms in the LICENSE file found in the top-level
+# directory of this distribution and at https://github.com/AbdullahKabir/FunProjects_with_Python.
+
+# NO WARRANTY. See the LICENSE file for details.
+
+'''
+This file is created and maintained by
+Abdullah Md Humayun Kabir
+Email: abdullah.kabir12@gmail.com
+
+'''

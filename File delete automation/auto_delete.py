@@ -1,3 +1,12 @@
+# Copyright (c) 2024 Abdullah Md Humayun Kabir
+# All rights reserved.
+
+# This file is part of the MyProject "Funprojects with python".
+# It is subject to the license terms in the LICENSE file found in the top-level
+# directory of this distribution and at https://github.com/AbdullahKabir/FunProjects_with_Python.
+
+# NO WARRANTY. See the LICENSE file for details.
+
 import os
 import datetime
 
@@ -33,3 +42,10 @@ def delete_old_files(directory):
 # Specify the directory where you want to delete old files
 directory_to_clean = 'S:\Temp'
 delete_old_files(directory_to_clean) 
+
+'''
+This file is created and maintained by
+Abdullah Md Humayun Kabir
+Email: abdullah.kabir12@gmail.com
+
+'''
